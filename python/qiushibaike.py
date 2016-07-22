@@ -97,5 +97,4 @@ class QUSB:
 			
 spider = QUSB()
 spider.start()
-# 帐号：root
-# 密码：pac.mcplay.cn 
+# python 爬虫   糗事百科 
